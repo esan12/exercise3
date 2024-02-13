@@ -1,0 +1,16 @@
+ul>li { color: black;   display: inline-block;
+           margin-right: 15px;  border-bottom: 2px solid black; list-style-type: none;}
+
+
+nav{ background-color:rgb(177, 187, 196); 
+          text-align: center;  padding: 5px;  }
+
+
+h2{ border-bottom: 1px black solid; font-family: sans-serif;}
+
+
+
+a{ text-decoration: none; color: black;}
+main{ border: 2px black solid; margin: 0 30px;}
+
+main{ background-image: url(/css/IMG_0254.JPG) ; }
